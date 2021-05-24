@@ -8,12 +8,6 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamnyang&count_bg=%230A95FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" alt="hits"/>
 </p>
 
-<p align="center">
-  <a href="/README_KR.md">한국어</a>
-    &nbsp;·&nbsp;
-  <a href="/README.md">English</a>
-</p>
-
 <br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
