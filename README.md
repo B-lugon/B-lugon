@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://ko.wikipedia.org/wiki/자바_(프로그래밍_언어)"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white&logo=Java" alt="java"/>
-  <a href="https://ko.wikipedia.org/wiki/코틀린_(프로그래밍_언어)"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white&logo=HTML5" alt="kotlin"/>
+  <a href="https://ko.wikipedia.org/wiki/코틀린_(프로그래밍_언어)"><img src="https://lglglink.ga/XAM60A" alt="kotlin"/>
   <a href="https://ko.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white&logo=HTML5" alt="html"/>
   <a href="https://ko.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white&logo=CSS3" alt="css"/>
   <a href="https://ko.wikipedia.org/wiki/자바스크립트"><img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logoColor=white&logo=JavaScript" alt="js"/>
