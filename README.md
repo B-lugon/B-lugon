@@ -13,8 +13,8 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
-  <a href="https://www.oracle.com/java/"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white&logo=Java" alt="java"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white&logo=HTML5" alt="html"/>&nbsp;
+  <a href="https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white&logo=Java" alt="java"/>
+  <a href="https://ko.wikipedia.org/wiki/HTML/"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logoColor=white&logo=HTML5" alt="html"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logoColor=white&logo=CSS3" alt="css"/>&nbsp;
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logoColor=white&logo=JavaScript" alt="js"/>&nbsp;
 </p>
