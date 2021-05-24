@@ -18,7 +18,7 @@
 
 <br>
 
-<h3 align="center"> 🎉 ME 🎉 </h3>
+<h3 align="center">My accounts</h3>
 
 <p align="center">
   <a href="https://discord.com/users/602076166999769099"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logoColor=white&logo=Discord" alt="Discord"/></a>&nbsp;
