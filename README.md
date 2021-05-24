@@ -1,7 +1,7 @@
 <p align="center">
 <!--   <img width="120px" src="/mooooooon_round.png" align="center" alt="namnyang" /> -->
-  <h1 align="center">Hi there 👋</h2>
-  <p align="center">Welcome to NY's Github!</p>
+  <h1 align="center">Hello User!</h2>
+  <p align="center">Welcome to Blugon0921's Github!</p>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 <h3 align="center"> 🎉 ME 🎉 </h3>
 
 <p align="center">
-  <a href="https://discord.com/users/690148325604720660"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logoColor=white&logo=Discord" alt="Discord"/></a>&nbsp;
+  <a href="https://discord.com/users/602076166999769099"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logoColor=white&logo=Discord" alt="Discord"/></a>&nbsp;
   <a href="mailto:namnyang0510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white&logo=Gmail" alt="Gmail"/></a>&nbsp;
   <a href="https://namnyang.live"><img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logoColor=white&logo=Google-Chrome" alt="web"/>&nbsp;
 </p>
