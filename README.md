@@ -25,6 +25,6 @@
 
 <p align="center">
   <a href="https://discord.com/users/602076166999769099"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logoColor=white&logo=Discord" alt="Discord"/></a>&nbsp;
-  <a href="mailto:namnyang0510@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white&logo=Gmail" alt="Gmail"/></a>&nbsp;
-  <a href="https://namnyang.live"><img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logoColor=white&logo=Google-Chrome" alt="web"/>&nbsp;
+  <a href="mailto:blugon0921@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white&logo=Gmail" alt="Gmail"/></a>&nbsp;
+  <a href="https://blugon0921.live"><img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logoColor=white&logo=Google-Chrome" alt="web"/>&nbsp;
 </p>
