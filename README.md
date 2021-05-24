@@ -1,3 +1,9 @@
+<style> 
+  .language {
+    color:orange
+  }
+</style>
+
 <p align="center">
 <!--   <img width="120px" src="/mooooooon_round.png" align="center" alt="namnyang" /> -->
   <h1 align="center">Hello User!</h2>
@@ -10,7 +16,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 class="language" align="center">Programming language I've learned</h3>
 
 <p align="center">
   <a href="https://ko.wikipedia.org/wiki/자바_(프로그래밍_언어)"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logoColor=white&logo=Java" alt="java"/>
