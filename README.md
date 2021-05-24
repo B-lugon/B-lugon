@@ -1,17 +1,7 @@
-<style> 
-  .language {
-    color:orange
-  }
-</style>
-
 <p align="center">
 <!--   <img width="120px" src="/mooooooon_round.png" align="center" alt="namnyang" /> -->
   <h1 align="center">Hello User!</h2>
   <p align="center">Welcome to Blugon0921's Github!</p>
-</p>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnamnyang&count_bg=%230A95FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" alt="hits"/>
 </p>
 
 <br>
