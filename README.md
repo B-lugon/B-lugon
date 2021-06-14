@@ -21,7 +21,7 @@
 <h3 align="center">My accounts</h3>
 
 <p align="center">
-  <a href="https://discord.com/users/602076166999769099"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logoColor=white&logo=Discord" alt="Discord"/></a>&nbsp;
-  <a href="mailto:blugon0921@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logoColor=white&logo=Gmail" alt="Gmail"/></a>&nbsp;
-  <a href="https://blugon0921.tk"><img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logoColor=white&logo=Google-Chrome" alt="web"/>&nbsp;
+  <a href="https://discord.com/users/602076166999769099"><img src="https://img.shields.io/badge/-Discord-5662F6?logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
+  <a href="mailto:blugon0921@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E74235?logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://blugon0921.tk"><img src="https://img.shields.io/badge/-Gmail-blue?logo=google-chrome&logoColor=white" alt="web"/>&nbsp;
 </p>
