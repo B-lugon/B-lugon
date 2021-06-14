@@ -9,11 +9,11 @@
 <h3 class="language" align="center">Programming language I've learned</h3>
 
 <p align="center">
-  <a href="https://ko.wikipedia.org/wiki/자바_(프로그래밍_언어)"><img src="https://img.shields.io/badge/Java-007396?logoColor=white&logo=Java" alt="java"/>
-  <a href="https://ko.wikipedia.org/wiki/코틀린_(프로그래밍_언어)"><img src="https://lglglink.ga/JBZHIR" alt="kotlin"/>
-  <a href="https://ko.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/HTML-E34F26?logoColor=white&logo=HTML5" alt="html"/>
-  <a href="https://ko.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/CSS-1572B6?logoColor=white&logo=CSS3" alt="css"/>
-  <a href="https://ko.wikipedia.org/wiki/자바스크립트"><img src="https://img.shields.io/badge/JS-F7DF1E?logoColor=white&logo=JavaScript" alt="js"/>
+  <a href="https://ko.wikipedia.org/wiki/자바_(프로그래밍_언어)"><img src="https://img.shields.io/badge/-Java-red?logo=java&logoColor=white" alt="java"/>
+  <a href="https://ko.wikipedia.org/wiki/코틀린_(프로그래밍_언어)"><img src="https://img.shields.io/badge/-Kotlin-orange?logo=Kotlin&logoColor=white" alt="kotlin"/>
+  <a href="https://ko.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/-Html-critical?logo=HTML5&logoColor=white" alt="html"/>
+  <a href="https://ko.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/-Css-blue?logo=CSS3&logoColor=white" alt="css"/>
+  <a href="https://ko.wikipedia.org/wiki/자바스크립트"><img src="https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white" alt="js"/>
 </p>
 
 <br>
