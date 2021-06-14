@@ -1,7 +1,7 @@
 <p align="center">
 <!--   <img width="120px" src="/mooooooon_round.png" align="center" alt="namnyang" /> -->
   <h1 align="center">Hello Github Users!</h2>
-  <p align="center">Welcome to Blugon0921's Github!</p>
+  <p align="center">Welcome to Blugon0921's Github Page!</p>
 </p>
 
 <br>
