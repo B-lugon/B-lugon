@@ -14,6 +14,7 @@
   <a href="https://ko.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/-Html-E34F26?logo=HTML5&logoColor=white" alt="html"/>
   <a href="https://ko.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/-Css-blue?logo=CSS3&logoColor=white" alt="css"/>
   <a href="https://ko.wikipedia.org/wiki/자바스크립트"><img src="https://img.shields.io/badge/-JavaScript-yellow?logo=JavaScript&logoColor=white" alt="js"/>
+  <a href="https://ko.wikipedia.org/wiki/파이썬"><img src="https://img.shields.io/badge/-JavaScript-2F4BA8?logo=Python&logoColor=white" alt="python"/>
 </p>
 
 <br>
