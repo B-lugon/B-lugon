@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://ko.wikipedia.org/wiki/자바_(프로그래밍_언어)"><img src="https://img.shields.io/badge/-Java-FF5555?logo=java&logoColor=white" alt="java"/>
-  <a href="https://ko.wikipedia.org/wiki/코틀린_(프로그래밍_언어)"><img src="https://img.shields.io/badge/-Kotlin-orange?logo=Kotlin&logoColor=white" alt="kotlin"/>
+  <a href="https://ko.wikipedia.org/wiki/코틀린_(프로그래밍_언어)"><img src="https://img.shields.io/badge/-Kotlin-186FCC?logo=Kotlin&logoColor=white" alt="kotlin"/>
   <a href="https://ko.wikipedia.org/wiki/HTML"><img src="https://img.shields.io/badge/-Html-E34F26?logo=HTML5&logoColor=white" alt="html"/>
   <a href="https://ko.wikipedia.org/wiki/CSS"><img src="https://img.shields.io/badge/-Css-blue?logo=CSS3&logoColor=white" alt="css"/>
   <a href="https://ko.wikipedia.org/wiki/파이썬"><img src="https://img.shields.io/badge/-Python-2F4BA8?logo=Python&logoColor=white" alt="python"/>
