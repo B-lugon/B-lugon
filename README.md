@@ -1,8 +1,23 @@
-<p align="center">
-<!--   <img width="120px" src="/mooooooon_round.png" align="center" alt="namnyang" /> -->
-  <h1 align="center">Hello Github Users!</h2>
-  <p align="center">Welcome to Blugon's Github Page!</p>
-</p>
+```kotlin
+companion object {
+  @JVMStatic
+  fun main(args : Array<String>) {
+    println("Hello, world!")
+  }
+}
+```
+```java
+public static void main(String[] args) {
+  System.out.println("Hello, world!")
+}
+```
+```javascript
+Console.log("Hello, world!")
+```
+```python
+print("Hello, world!")
+```
+
 
 <br>
 
