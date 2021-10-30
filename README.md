@@ -6,8 +6,6 @@
 
 ## Used Language
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blugon0921&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
-
 [![Java](https://img.shields.io/badge/Java--FF7700?logo=java&logoColor=FF7700)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin--186FCC?logo=Kotlin&logoColor=186FCC)]()
 [![Css](https://img.shields.io/badge/Html--E34F26?logo=HTML5&logoColor=E34F26)]()
@@ -16,6 +14,11 @@
 
   
 <br>
+
+## My Stats
+
+[![Langs](https://github-readme-stats.vercel.app/api?username=Blugon0921&show_icons=true&theme=dark&count_private=true&hide_border=true)]()<br>
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blugon0921&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
 
 
 ## Accounts
