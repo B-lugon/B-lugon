@@ -6,11 +6,11 @@
 
 ## Used Language
 
-[![Java](https://img.shields.io/badge/Java--FF7700?logo=java&logoColor=FF7700)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin--186FCC?logo=Kotlin&logoColor=186FCC)]()
-[![Css](https://img.shields.io/badge/Html--E34F26?logo=HTML5&logoColor=E34F26)]()
-[![Html](https://img.shields.io/badge/Css--blue?logo=CSS3&logoColor=blue)]()
-[![Python](https://img.shields.io/badge/Python--2F4BA8?logo=Python&logoColor=2F4BA8)]()
+[![Java](https://img.shields.io/badge/Java--FF7700?logo=java&logoColor=FFFFFF)]()
+[![Kotlin](https://img.shields.io/badge/Kotlin--186FCC?logo=Kotlin&logoColor=FFFFFF)]()
+[![Css](https://img.shields.io/badge/Html--E34F26?logo=HTML5&logoColor=FFFFFF)]()
+[![Html](https://img.shields.io/badge/Css--blue?logo=CSS3&logoColor=FFFFFF)]()
+[![Python](https://img.shields.io/badge/Python--2F4BA8?logo=Python&logoColor=FFFFFF)]()
 
   
 <br>
