@@ -17,8 +17,8 @@
 
 ## My Stats
 
-[![Langs](https://github-readme-stats.vercel.app/api?username=Blugon0921&show_icons=true&theme=dark&count_private=true&hide_border=true)]()<br>
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blugon0921&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
+[![Langs](https://github-readme-stats.vercel.app/api?username=blugon09&show_icons=true&theme=dark&count_private=true&hide_border=true)]()<br>
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blugon09&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
 
 
 ## Accounts
