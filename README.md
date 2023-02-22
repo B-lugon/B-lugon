@@ -1,28 +1,102 @@
-# 👋 Hi There
+```html
+<!DOCTYPE HTML>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8"></meta>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
+  <meta name="viewport" content="width=device-width initial-scale=1.0"></meta>
 
+  <title>Blugon09</title>
+</head>
+<body>
+  <h1>Hi There!</h1>
+  <p>------------------------------------<p>
+  <br>
+  <div>
+    <h2>가능한 자연어</h2>
+    <ol>
+      <li>한국어</li>
+      <li>영?어???(일본어보다 못함(아마도))</li>
+      <li>일본어 조금씩 공부중</li>
+    </ol>
+  </div>
+  <br>
+  <div>
+    <h2>가능한 프로그래밍 언어</h2>
+    <ol>
+      <li>Java</li>
+      <li>Kotlin(Minecraft Plugins)</li>
+      <li>JavaScript</li>
+    </ol>
+  </div>
+  <br>
+  <div>
+    <h2>기타 언어</h2>
+    <ol>
+      <li>HTML</li>
+      <li>CSS</li>
+    </ol>
+  </div>
+  <br>
+  <p>------------------------------------<p>
+  <br>
+  <div>
+    <h2>외부 주소</h2>
+    <a href="https://blugon.kr/facebook">페이스북</a>
+    <a href="https://blugon.kr/instagram">인스타그램</a>
+    <a href="https://blugon.kr/discord">디스코드</a>
+    <a href="https://blugon.kr/mail">이메일</a>
+  </div>
+</body>
+</html>
+```
 
-<br>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8"></meta>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge"></meta>
+  <meta name="viewport" content="width=device-width initial-scale=1.0"></meta>
 
-
-## Used Language
-
-[![Java](https://img.shields.io/badge/Java--FF7700?logo=java&logoColor=FFFFFF)]()
-[![Kotlin](https://img.shields.io/badge/Kotlin--186FCC?logo=Kotlin&logoColor=FFFFFF)]()
-[![Css](https://img.shields.io/badge/Html--E34F26?logo=HTML5&logoColor=FFFFFF)]()
-[![Html](https://img.shields.io/badge/Css--blue?logo=CSS3&logoColor=FFFFFF)]()
-[![Python](https://img.shields.io/badge/Python--2F4BA8?logo=Python&logoColor=FFFFFF)]()
-
-  
-<br>
-
-## My Stats
-
-[![Langs](https://github-readme-stats.vercel.app/api?username=blugon09&show_icons=true&theme=dark&count_private=true&hide_border=true)]()<br>
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blugon09&layout=compact&hide=css,xml&theme=tokyonight)]()<br><br>
-
-
-## Accounts
-
-<a href="https://discord.com/users/602076166999769099"><img src="https://img.shields.io/badge/-Discord-5662F6?logo=discord&logoColor=white" alt="Discord"/></a>&nbsp;
-<a href="mailto:blugon0921@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E74235?logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="http://blugon.kr"><img src="https://img.shields.io/badge/-WebSite-blue?logo=google-chrome&logoColor=white" alt="web"/>&nbsp;
+  <title>Blugon09</title>
+</head>
+<body>
+  <h1>Hi There!</h1>
+  <p>------------------------------------<p>
+  <br>
+  <div>
+    <h2>가능한 자연어</h2>
+    <ol>
+      <li>한국어</li>
+      <li>영?어???(일본어보다 못함(아마도))</li>
+      <li>일본어 조금씩 공부중</li>
+    </ol>
+  </div>
+  <br>
+  <div>
+    <h2>가능한 프로그래밍 언어</h2>
+    <ol>
+      <li>Java</li>
+      <li>Kotlin(Minecraft Plugins)</li>
+      <li>JavaScript</li>
+    </ol>
+  </div>
+  <br>
+  <div>
+    <h2>기타 언어</h2>
+    <ol>
+      <li>HTML</li>
+      <li>CSS</li>
+    </ol>
+  </div>
+  <br>
+  <p>------------------------------------<p>
+  <br>
+  <div>
+    <h2>외부 주소</h2>
+    <a href="https://blugon.kr/facebook">페이스북</a>
+    <a href="https://blugon.kr/instagram">인스타그램</a>
+    <a href="https://blugon.kr/discord">디스코드</a>
+    <a href="https://blugon.kr/mail">이메일</a>
+  </div>
+</body>
+</html>
