@@ -26,6 +26,7 @@
       <li>Java</li>
       <li>Kotlin(Minecraft Plugins)</li>
       <li>JavaScript</li>
+      <li>NodeJs</li>
     </ol>
   </div>
   <br>
@@ -66,6 +67,7 @@
       <li>Java</li>
       <li>Kotlin(Minecraft Plugins)</li>
       <li>JavaScript</li>
+      <li>NodeJs</li>
     </ol>
   </div>
   <br>
